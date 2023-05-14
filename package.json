@@ -1,0 +1,26 @@
+{
+  "name": "artoolkit5-es",
+  "version": "1.0.0",
+  "description": "ARToolKit5-es 是一个基于 ARToolKit5 的 JavaScript 库，用于在网页和移动设备上实现增强现实应用程序。它提供了一组 API 以便于开发人员进行图像处理、标记检测、图像跟踪和姿态估计等操作。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnbbx/artoolkit5-es.git"
+  },
+  "keywords": [
+    "ARToolKit5",
+    "ARToolKit5-es",
+    "增强现实",
+    "AR",
+    "AR.js"
+  ],
+  "author": "Cnbbx Inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cnbbx/artoolkit5-es/issues"
+  },
+  "homepage": "https://github.com/cnbbx/artoolkit5-es#readme"
+}
